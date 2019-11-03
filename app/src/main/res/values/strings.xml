@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PraktikumIntent</string>
+    <string name="hasil_registrasi">Hasil Registrasi</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="polpos">Polpos</string>
+    <string name="call_center">Call Center</string>
+    <string name="website_poltekpos">Website Poltekpos</string>
+    <string name="kirim">Kirim</string>
+    <string name="no_telpon">No. Telpon</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama">Nama</string>
+    <string name="laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="hobi">Hobi</string>
+    <string name="makan">Makan</string>
+    <string name="minum">Minum</string>
+    <string name="tidur">Tidur</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="prodi">Program Studi</string>
+</resources>
